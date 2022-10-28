@@ -25,10 +25,12 @@ https://www.rust-lang.org/learn/get-started</br>
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/</br>
 
+[<img alt="alt_text" width="600px" src="https://tauri.app/assets/images/vs-installer-dark-03cefd64bd4335f718aacc8f4842d2bb.png#gh-dark-mode-only" />](https://tauri.app/v1/guides/getting-started/prerequisites)
+
+Instale o Tauri CLI: </br>
 `cargo install tauri-cli`</br>
 
 Após isso:
-
 `cargo tauri init`
 
 Escolha as opções para o seu projeto
