@@ -30,7 +30,7 @@ https://visualstudio.microsoft.com/visual-cpp-build-tools/</br>
 Instale o Tauri CLI: </br>
 `cargo install tauri-cli`</br>
 
-Após isso:
+Após isso:</br>
 `cargo tauri init`
 
 Escolha as opções para o seu projeto
