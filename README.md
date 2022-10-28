@@ -1,7 +1,7 @@
 # Tauri-Project
 
 
-Este projeto é um teste do [Tauri](https://tauri.app/)
+Este projeto é um teste meu do [Tauri](https://tauri.app/)
 
 Para criar um projeto do zero, como esse:
 
