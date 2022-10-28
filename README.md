@@ -33,8 +33,8 @@ Instale o Tauri CLI: </br>
 Após isso:</br>
 `cargo tauri init`
 
-Escolha as opções para o seu projeto
-Exemplo:
+Escolha as opções para o seu projeto</br>
+Exemplo:</br>
 ✔ What is your app name? · meuapp</br>
 ✔ What should the window title be? · meuapp</br>
 ✔ Where are your web assets (HTML/CSS/JS) located, relative to the "<current dir>/src-tauri/tauri.conf.json" file that will be created? · ../dist</br>
