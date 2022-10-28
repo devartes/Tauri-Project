@@ -8,7 +8,7 @@ Para criar um projeto do zero, como esse:
 Primeiro é necessário o Vite:</br>
 `npm init vite@latest`
 
-Escolha o tipo do projeto
+Escolha o tipo do projeto</br>
 Exemplo:
 
 √ Project name: ... meuapp</br>
