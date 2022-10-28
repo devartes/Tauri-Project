@@ -52,3 +52,6 @@ Para gerar o app instalável:</br>
 
 Windows Installer:</br>
 `cargo tauri build`
+
+Para agrupar todas as [licenças](https://crates.io/crates/cargo-bundle-licenses) "THIRDPARTY.yml" de terceiros em um único arquivo:</br>
+`cargo install cargo-bundle-licenses`
